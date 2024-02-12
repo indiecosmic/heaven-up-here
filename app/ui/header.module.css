@@ -1,0 +1,7 @@
+.header__logo {
+  display: block;
+  margin: 0 auto;
+  padding: .6rem .8rem;
+  max-width: 9.6rem;
+  position: relative;
+}
